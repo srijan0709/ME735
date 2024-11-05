@@ -1,9 +1,7 @@
 Running Instructions: make
 					  ./bin/tf-animate
 
-We declare that this assignment is our own work and that we have not plagarized or cpoied any section of code from any source which we have not explicitly cited.
 
-We also declare that the first assignment was also completely our own work.
 
 Note: Before saving the frames, create an empty folder name "frames" at the same level as the makefile
 
@@ -37,6 +35,3 @@ Numpad Keys:
 
 Note: Although our code supports variable intensity lights, we have only used intensities 1 and 0, i.e. on/off. Also, our code supports moving lights, but we have kept the global lights stationary so that the scene is well lit, unless they are off.
 
-Youtube Links:
-https://youtu.be/ZKhLhsw0pfQ (Without Audio)
-https://youtu.be/UQj2B6HXvZM (With Audio)

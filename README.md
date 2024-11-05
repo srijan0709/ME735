@@ -1,7 +1,7 @@
 Running Instructions: make
 					  ./bin/tf-animate
 
-We, Deepasha (210070025) and Siddharth Mahesh Patil (21D0070071), declare that this assignment is our own work and that we have not plagarized or cpoied any section of code from any source which we have not explicitly cited.
+We declare that this assignment is our own work and that we have not plagarized or cpoied any section of code from any source which we have not explicitly cited.
 
 We also declare that the first assignment was also completely our own work.
 

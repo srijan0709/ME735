@@ -4,8 +4,7 @@
   Use the arrow keys and PgUp,PgDn, 
   keys to make the cube move.
 
-  Written by - 
-               Parag Chaudhuri
+ 
 */
 #ifndef _COLORCUBE_HPP_
 #define _COLORCUBE_HPP_

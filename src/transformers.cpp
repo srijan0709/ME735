@@ -824,7 +824,7 @@ int main(int argc, char** argv)
   glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE); 
 
   //! Create a windowed mode window and its OpenGL context
-  window = glfwCreateWindow(width, height, "Assignment 3 - Transformers Animation", NULL, NULL);
+  window = glfwCreateWindow(width, height, "ME735- Transformers Animation", NULL, NULL);
   if (!window)
     {
       glfwTerminate();

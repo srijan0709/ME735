@@ -1,6 +1,4 @@
-/*
-  Based on tutorial 6 by Parag C
-*/
+
 
 
 #include "vector_prime.hpp"
